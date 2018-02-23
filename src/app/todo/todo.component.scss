@@ -1,0 +1,10 @@
+.item-todo {
+    &__name {
+        padding: 0 2%;
+    }
+
+    &__exclud {
+        position: absolute;
+        right: 2%;
+    }
+}
