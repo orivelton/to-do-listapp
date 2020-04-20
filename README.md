@@ -1,5 +1,5 @@
 # Todolistapp
 
-Project made with Angular 5 and Firebase
+Project made with Angular and Firebase
 
 Demo: https://orivelton.github.io/to-do-listapp/
